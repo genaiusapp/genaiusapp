@@ -1,14 +1,14 @@
-# The genaius LibreChat Plugin Framework
+# LibreChat Plugin Framework
 
-A modular plugin framework for LibreChat with support for real-time communication using Flask-SocketIO, centralized logging, and comprehensive error handling.
+An extensible framework for developing and managing plugins for LibreChat extends features using LibreChat's extensibilty platform.
 
 ## Features
 
-- **Modular Plugin System**: Easily create, manage, and integrate plugins.
-- **Real-Time Communication**: Support for real-time updates via Flask-SocketIO.
-- **Centralized Logging**: Comprehensive logging for monitoring and debugging.
-- **Error Handling**: Robust error handling to ensure system reliability.
-- **Ease of Use**: Clear structure and template plugins for easy extension.
+- **Modular Architecture**: Develop, manage, and integrate plugins effortlessly.
+- **Real-Time Communication**: Enable live updates and interactions.
+- **Centralized Logging**: Monitor and debug with comprehensive logging.
+- **Robust Error Handling**: Ensure reliability and stability.
+- **User-Friendly**: Simple setup and clear documentation for easy adoption.
 
 ## Getting Started
 
@@ -24,3 +24,4 @@ A modular plugin framework for LibreChat with support for real-time communicatio
    ```bash
    git clone https://github.com/your-username/librechat-plugin-framework.git
    cd librechat-plugin-framework
+
