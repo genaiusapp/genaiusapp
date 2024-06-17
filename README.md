@@ -1,6 +1,7 @@
-# LibreChat Plugin Framework
+# genaius LibreChat Plugin Framework
 
-An extensible framework for developing and managing plugins for LibreChat extends features using LibreChat's extensibilty platform.
+
+The genaius LibreChat Plugin is an extensible framework for developing and managing plugins for LibreChat that extends features using LibreChat's custom endpoints and a custom API. It allows for consistent plugin design, a plugin manager for dynamic loading and execution, and real-time communication. This framework enhances LibreChat by enabling seamless integration of new features and functionalities through custom plugins.
 
 ## Features
 
