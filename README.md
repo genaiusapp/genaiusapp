@@ -14,7 +14,7 @@ An extensible framework for developing and managing plugins for LibreChat extend
 
 ### Prerequisites
 
-- Python 3.7+
+- Python 3.10+
 - Flask
 - Flask-SocketIO
 
